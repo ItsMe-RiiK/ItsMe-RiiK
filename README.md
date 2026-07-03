@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20RiiK!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20RiiK!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=50&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=75&descAlign=60" alt="Header" />
 </div>
 
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **exciting projects!**
-- 🌱 I’m currently learning **C/C++ and diving deep into systems programming.**
+- 🌱 I’m currently learning **C/C++ and lua/luau.**
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 - 🤔 I’m looking for help with **mastering advanced C++ concepts.**
 - 💬 Ask me about **my projects and what I've learned recently.**
-- 📫 How to reach me: **[Check the Connect with Me section below! 👇](#-connect-with-me)**
+- 📫 How to reach me: **[Check the section below! 👇](#-connect-with-me)**
 
 <br> <img src="https://media1.tenor.com/m/94j7d6r8kNUAAAAC/scuba.gif" width="250" alt="Scuba meme GIF" />
 
