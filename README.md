@@ -10,7 +10,8 @@
 - 🤔 I’m looking for help with **mastering advanced C++ concepts.**
 - 💬 Ask me about **my projects and what I've learned recently.**
 - 📫 How to reach me: **[Check the Connect with Me section below! 👇](#-connect-with-me)**
-- ⚡ memes: <br> <img src="https://media1.tenor.com/m/94j7d6r8kNUAAAAC/scuba.gif" width="250" alt="Scuba meme GIF" />
+
+<br> <img src="https://media1.tenor.com/m/94j7d6r8kNUAAAAC/scuba.gif" width="250" alt="Scuba meme GIF" />
 
 
 ## 🛠️ Tech Stack & Tools
@@ -34,14 +35,14 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsMe-RiiK&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="ItsMe-RiiK's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsMe-RiiK&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="ItsMe-RiiK's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMe-RiiK&theme=radium&hide_border=true&background=0D1117" alt="ItsMe-RiiK's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMe-RiiK&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsMe-RiiK&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
