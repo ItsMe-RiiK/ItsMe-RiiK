@@ -19,7 +19,7 @@
 ### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,lua" />
   </a>
 </p>
 
@@ -35,14 +35,14 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsMe-RiiK&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="ItsMe-RiiK's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMe-RiiK&theme=radium&hide_border=true&background=0D1117" alt="ItsMe-RiiK's GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsMe-RiiK&show_icons=true&theme=radium&hide_border=true&bg_color=5ff" alt="ItsMe-RiiK's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMe-RiiK&theme=radium&hide_border=true&background=5ff" alt="ItsMe-RiiK's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsMe-RiiK&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsMe-RiiK&layout=compact&theme=radium&hide_border=true&bg_color=5ff" alt="Top Languages" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/riik26">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
   </a>
   <a href="mailto:syakirr266@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -60,5 +60,5 @@
 
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItsMe-RiiK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ItsMe-RiiK&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" />
 </div>
