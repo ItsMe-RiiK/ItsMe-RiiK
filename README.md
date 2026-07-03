@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20RiiK!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=62" alt="Header" />
+</div>
 
-<!--
-**ItsMe-RiiK/ItsMe-RiiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **exciting projects!**
+- 🌱 I’m currently learning **C/C++ and diving deep into systems programming.**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
+- 🤔 I’m looking for help with **mastering advanced C++ concepts.**
+- 💬 Ask me about **my projects and what I've learned recently.**
+- 📫 How to reach me: **[Check the Connect with Me section below! 👇](#-connect-with-me)**
+- ⚡ memes: <br> <img src="https://media1.tenor.com/m/94j7d6r8kNUAAAAC/scuba.gif" width="250" alt="Scuba meme GIF" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
+  </a>
+</p>
+
+### Frameworks & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,cmake"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsMe-RiiK&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="ItsMe-RiiK's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMe-RiiK&theme=radium&hide_border=true&background=0D1117" alt="ItsMe-RiiK's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMe-RiiK&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://discord.com/users/riik26">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:syakirr266@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItsMe-RiiK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
