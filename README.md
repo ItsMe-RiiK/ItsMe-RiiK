@@ -36,7 +36,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsMe-RiiK&show_icons=true&theme=radium&hide_border=true&bg_color=5ff" alt="ItsMe-RiiK's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMe-RiiK&theme=radium&hide_border=true&background=5ff" alt="ItsMe-RiiK's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ItsMe-RiiK&theme=radium&hide_border=true&background=5ff" alt="ItsMe-RiiK's GitHub Streak" />
 </div>
 
 <br/>
