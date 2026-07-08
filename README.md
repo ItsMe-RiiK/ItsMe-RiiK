@@ -4,9 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **exciting projects!**
 - 🌱 I’m currently learning **C/C++ and lua/luau.**
-- 👯 I’m looking to collaborate on **Open Source Projects.**
 - 🤔 I’m looking for help with **mastering advanced C++ concepts.**
 - 💬 Ask me about **my projects and what I've learned recently.**
 - 📫 How to reach me: **[Check the section below! 👇](#-connect-with-me)**
@@ -38,9 +36,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsMe-RiiK&show_icons=true&theme=radium&hide_border=true&bg_color=5ff" alt="ItsMe-RiiK's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=ItsMe-RiiK&theme=radium&hide_border=true&background=5ff" alt="ItsMe-RiiK's GitHub Streak" />
 </div>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsMe-RiiK&layout=compact&theme=radium&hide_border=true&bg_color=5ff" alt="Top Languages" />
 </div>
@@ -53,8 +48,12 @@
   <a href="https://discord.com/users/riik26">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
   </a>
+  <a href="wa.me/ItsMeRiiK">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp" />
+  </a>
   <a href="mailto:syakirr266@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email" />
   </a>
 </div>
 
