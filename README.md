@@ -48,7 +48,7 @@
   <a href="https://discord.com/users/riik26">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
   </a>
-  <a href="wa.me/ItsMeRiiK">
+  <a href="https://wa.me/ItsMeRiiK">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp" />
   </a>
   <a href="mailto:syakirr266@gmail.com">
