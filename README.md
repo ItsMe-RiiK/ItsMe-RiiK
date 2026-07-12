@@ -4,12 +4,10 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **C/C++ and lua/luau.**
-- 🤔 I’m looking for help with **mastering advanced C++ concepts.**
-- 💬 Ask me about **my projects and what I've learned recently.**
+- 🌱 Currently learning **C/C++**
 - 📫 How to reach me: **[Check the section below! 👇](#-connect-with-me)**
 
-<br> <img src="https://media1.tenor.com/m/94j7d6r8kNUAAAAC/scuba.gif" width="250" alt="Scuba meme GIF" />
+<br> <img src="https://media1.tenor.com/m/94j7d6r8kNUAAAAC/scuba.gif" width="220" alt="Scuba meme GIF" />
 
 
 ## 🛠️ Tech Stack & Tools
@@ -47,9 +45,6 @@
 <div align="center">
   <a href="https://discord.com/users/riik26">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
-  </a>
-  <a href="https://wa.me/ItsMeRiiK">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp" />
   </a>
   <a href="mailto:syakirr266@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
